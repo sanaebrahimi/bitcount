@@ -1,0 +1,6 @@
+a.out*
+bitcount.c
+bitcount.o
+bitcount.s
+manifest
+Readme.txt
